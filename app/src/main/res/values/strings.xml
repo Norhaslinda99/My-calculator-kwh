@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Calculator kwh</string>
+    <string name="student">Student Information:</string>
+    <string name="name1">NORHASLINDA BINTI JAMIL</string>
+    <string name="matrixandclass2">2021523059, RCS2405A, ICT602</string>
+    <string name="copyright_statement">© 2023 My Calculator kwh. All rights reserved.</string>
+    <string name="id_2021523059_class_rcs2405a_course_ict602">ID: 2021523059 - CLASS: RCS2405A- COURSE: ICT602</string>
+    <string name="_2023_my_calculator_kwh_all_rights_reserved">© 2023 My Calculator kwh. All rights reserved.</string>
+    <string name="enter_the_kwh">Enter the kWh</string>
+    <string name="rebate_0_5">Rebate (0% - 5%)</string>
+    <string name="student_information">STUDENT INFORMATION:</string>
+    <string name="norhaslinda_binti_jamil">NORHASLINDA BINTI JAMIL</string>
+    <string name="about_me_page">About Me Page</string>
+    <string name="norhaslinda" />
+</resources>
